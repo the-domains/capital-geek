@@ -2,13 +2,13 @@ layout_spectrum: 1
 typography_spectrum: 0.4242159
 color:
   lightness: 0.3850651
-  brandStrength: 0.9665801
+  brandStrength: 0.906383
   saturation: 0.3152269
-  rhythmicContrast: 0.5484885
+  rhythmicContrast: 0.5595745
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#F4EDE5'
+    - '#C5AB9D'
+    - '#9D8072'
+    - '#2E2623'
+    - '#000000'
 name: Capital Geek
